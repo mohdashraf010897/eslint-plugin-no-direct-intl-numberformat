@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-no-direct-intl-numberformat",
-    "version": "1.1.0",
+    "version": "2.0.0",
     "author": "mohdashraf010897@gmail.com",
     "license": "MIT",
     "homepage": "https://github.com/mohdashraf010897/eslint-plugin-no-direct-intl-numberformat/blob/main/README.md",
