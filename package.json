@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-no-direct-intl-numberformat",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "author": "mohdashraf010897@gmail.com",
     "license": "MIT",
     "homepage": "https://github.com/mohdashraf010897/eslint-plugin-no-direct-intl-numberformat/blob/main/README.md",
@@ -8,13 +8,13 @@
         "type": "git",
         "url": "git+https://github.com/mohdashraf010897/eslint-plugin-no-direct-intl-numberformat.git"
     },
-    "main": "index.js",
+    "main": "no-direct-intl-numberformat-plugin.js",
     "description": "A custom eslint plugin to prevent direct usage of Intl.NumberFormat API",
     "bugs": {
         "url": "https://github.com/mohdashraf010897/eslint-plugin-no-direct-intl-numberformat/issues"
     },
     "scripts": {
-        "test": "node index.test.js"
+        "test": "node no-direct-intl-numberformat-plugin.test.js"
     },
     "peerDependencies": {
         "eslint": ">= 3"

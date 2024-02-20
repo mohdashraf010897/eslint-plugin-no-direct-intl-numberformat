@@ -1,5 +1,5 @@
 const { RuleTester } = require('eslint');
-const rule = require('./index.js');
+const rule = require('./no-direct-intl-numberformat.js');
 
 const ruleTester = new RuleTester({
   parserOptions: { ecmaVersion: 2015, sourceType: 'module' },
